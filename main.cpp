@@ -25,8 +25,9 @@ int main()
     
     delete[] b;
 
+    std::cout << "Fonyó Máté beleírt ebbe a repóba" << std::endl; //házi feladat vége
+
     return 0;
 
-    
 }
 
