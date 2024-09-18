@@ -27,6 +27,8 @@ int main()
 
     std::cout << "Fonyó Máté beleírt ebbe a repóba" << std::endl; //házi feladat vége
 
+    std::cout << "Uj branch es pull request letrehozva a hazi feladat vegen" << std::endl;
+
     return 0;
 
 }
